@@ -1,6 +1,2 @@
 import './bootstrap';
-
-
-
-// React Components
-require('./components/HelloReact')
+import './App.jsx'
